@@ -1,12 +1,12 @@
-# Torrents MultiSearch (Unofficial MV3 Port)
+# TMS (Torrents MultiSearch — Unofficial MV3 Port)
 
 Неофициальная адаптация расширения Torrents MultiSearch под стандарт **Manifest V3**.
 Оригинальный проект (v3.1.2) был заброшен и не работает в новых версиях Chrome.
 
 ## Особенности
-* База: оригинальная версия 3.1.2.
-* Обновлено под Manifest V3 (Service Worker, Fetch API).
-* Работает в Chrome, Edge, Brave, Яндекс.Браузере.
+* База — оригинальная версия 3.1.2.
+* Обновлено под Manifest V3.
+* Восстановлена работоспособность в актуальных версиях Chrome
 
 ## Установка
 1. Скачайте архив (Code -> Download ZIP).
